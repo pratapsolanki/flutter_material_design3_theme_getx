@@ -13,8 +13,8 @@ https://ducafecat.tech/2022/02/23/2022/flutter-material-design3-theme-getx/
 
 https://pub.flutter-io.cn/packages/get
 
-![](./README/1.png)
-![](./README/2.png)
+![](https://github.com/pratapsolanki/flutter_material_design3_theme_getx/blob/main/results/1.png)
+![](https://github.com/pratapsolanki/flutter_material_design3_theme_getx/blob/main/results/1.png)
 
 
 ## Follow on twitter
